@@ -1,0 +1,4 @@
+set("BUILD_tools" "OFF" CACHE INTERNAL "")
+set("BUILD_examples" "OFF" CACHE INTERNAL "")
+set("BUILD_tests" "OFF" CACHE INTERNAL "")
+set("BUILD_SHARED_LIBS" "ON" CACHE INTERNAL "")
